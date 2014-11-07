@@ -1,3 +1,15 @@
 .bought {
     text-decoration: line-through;
 }
+.drink {
+    text-color: blue;
+}
+.meat {
+    text-color: red;
+}
+.veggie {
+    text-color: yellow;
+}
+.sauce {
+    text-color: green;
+}
