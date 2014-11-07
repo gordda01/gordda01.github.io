@@ -1,3 +1,7 @@
+body {
+          background-image: url("https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSg6ipk4jXzitOHpwADdh-VW8rqAHSJ6yvrDjqopjkGLZl2_oRDF8IEL8WZ")
+      }
+
 .bought {
     text-decoration: line-through;
 }
