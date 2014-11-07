@@ -2,14 +2,14 @@
     text-decoration: line-through;
 }
 .drink {
-    text-color: blue;
+    color: blue;
 }
 .meat {
-    text-color: red;
+    color: red;
 }
 .veggie {
-    text-color: yellow;
+    color: yellow;
 }
 .sauce {
-    text-color: green;
+    color: green;
 }
