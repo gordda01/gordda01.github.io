@@ -1,6 +1,12 @@
 .card {
   height: 175px;
-  width:;
+  width: 100;
+  border: 2px solid;
+  border-radius: 10px;
 }
-.q
-.a
+.q {
+  background-color: light blue;
+}
+.a {
+  bachground-color: light gray;
+}
