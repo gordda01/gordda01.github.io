@@ -30,5 +30,5 @@ section {
       display: none;
      }
      input:checked ~.question {
-            background-color=: lightgreen;
+            background-color: lightgreen;
      }
