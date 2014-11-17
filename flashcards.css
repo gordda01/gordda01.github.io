@@ -29,6 +29,6 @@ section {
      nav:hover .question {
       display: none;
      }
-     nav:checked .question {
+     input:checked ~.question {
             background-color=lightgreen
      }
