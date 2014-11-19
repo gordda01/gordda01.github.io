@@ -31,4 +31,7 @@ section {
      }
      input:checked ~.question {
             background-color: lightgreen;
+            position: absolute;
+              top: 200px;
+              left: 62px;
      }
