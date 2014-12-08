@@ -3,14 +3,14 @@
     <link rel="stylesheet" href="shop.css" type="text/css">
   </head>
   <body>
-    <h1>Grocery List</h1>
+    <h1>Shopping List</h1>
     <main>
-      <ul id="grocerylist">
+      <ul id="shoppinglist">
       </ul>
     </main>
     <aside>
-      <label for="grocerybox">Grocery Item</label>
-      <input type="text" id="grocerybox" size=40 value="">
+      <label for="itembox">Item</label>
+      <input type="text" id="itembox" size=40 value="">
       <select id="category">
         <option>Produce</option>
         <option>Meat</option>
@@ -19,6 +19,7 @@
         <option>Snack</option>
         <option>Dessert</option>
       </select>
+      <button onclick="addItem()"></button>
     </aside>
   </body>
 </html>
